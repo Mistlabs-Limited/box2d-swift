@@ -1,0 +1,5 @@
+module Box2D {
+    umbrella "box2d"
+    export *
+    module * { export * }
+}
