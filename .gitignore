@@ -1,4 +1,6 @@
 build/
+.build/
+.swiftpm/
 imgui.ini
 settings.ini
 .vscode/
